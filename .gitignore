@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+config.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Log files
+*.log
+
+# Uploaded frames, temp files, saved images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.gif
+
+# Gradio/Streamlit/Temp files
+gradio_cached_examples/
+saved_frame.jpg
+
+# Ignore backup or temp files
+*~
+*.swp
+*.bak
+*.tmp
