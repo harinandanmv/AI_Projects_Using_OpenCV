@@ -201,4 +201,4 @@ A: Check your system audio permissions and ensure `pyttsx3` is installed properl
 
 **M V Harinandan**
 📧 [harinandanmv11@gmail.com](mailto:harinandanmv11@gmail.com)
-🔗 GitHub: [github.com/yourusername](https://github.com/harinandanmv)
+🔗 GitHub: [github.com/harinandanmv](https://github.com/harinandanmv)
