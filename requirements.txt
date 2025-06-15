@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+deepface
+pyttsx3
+numpy
+python-dotenv
